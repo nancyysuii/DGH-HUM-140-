@@ -37,3 +37,5 @@ Data: Digital texts of philosophical works from different philosophers and perio
 Approach: Sentiment Analysis: Use NLP 
 
 Visualization: Create visualizations such as sentiment trend lines/ word clouds over time. Use interactive visualizations to compare different philosophers or periods.
+
+https://mybinder.org/v2/gh/nancyysuii/DGH-HUM-140-/main
